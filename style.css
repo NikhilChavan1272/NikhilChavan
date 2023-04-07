@@ -520,6 +520,9 @@ section .title::after{
         padding-top: 80px;
         transition: all 0.3s ease;
     }
+    .navbar{
+        padding-top: 50px;
+    }
     .navbar .menu.active{
         left: 0;
     }
