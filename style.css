@@ -573,6 +573,9 @@ section .title::after{
     .max-width{
         padding: 0 23px;
     }
+    .home-content{
+        padding-top: 80px;
+    }
     .home .home-content .text-2{
         font-size: 60px;
     }
